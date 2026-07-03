@@ -30,8 +30,6 @@ Spotify Web API
 
 Google Maps SDK
 
-Architecture MVVM
-
 RecyclerView, LiveData, ViewModel
 
 📌 Développements futurs
