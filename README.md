@@ -1,27 +1,27 @@
-🎶 Musio — Application Android de playlist collaborative
-Musio est une application Android conçue pour encourager le partage musical au sein du campus La Plaine.
-Elle permet à chaque utilisateur d’ajouter ses morceaux préférés à une playlist commune, de découvrir les tendances musicales du jour et de visualiser la répartition des genres sur une carte interactive.
+🎶 Musio — Collaborative Android Playlist Application
+Musio is an Android application designed to encourage musical sharing within the La Plaine campus community.
+It allows users to add their favorite tracks to a shared playlist, discover daily musical trends, and visualize the distribution of music genres through an interactive map.
 
-✨ Fonctionnalités principales
-🔐 Authentification Firebase
-Inscription et connexion sécurisées via Firebase Authentication.
+✨ Main Features
+🔐 Firebase Authentication
+Secure user registration and login using Firebase Authentication.
 
-🎧 Playlist collaborative
-Chaque utilisateur peut ajouter des morceaux grâce à l’API Spotify (titres, artistes, genres).
+🎧 Collaborative Playlist
+Users can contribute to a shared playlist by adding tracks retrieved via the Spotify API (titles, artists, genres).
 
-🔔 Notifications quotidiennes
-Envoi automatique d’une notification toutes les 24h pour annoncer la playlist du jour.
+🔔 Daily Notifications
+Automatic notifications sent every 24 hours to announce the daily playlist.
 
-🗺️ Google Maps
-Carte interactive affichant les genres musicaux les plus représentés sur le campus.
+🗺️ Google Maps Integration
+Interactive map displaying the most represented music genres across the campus.
 
-💾 Persistance des données
-Stockage local + cloud pour conserver comptes, playlists et préférences.
+💾 Data Persistence
+Local and cloud storage to preserve user accounts, playlists, and preferences.
 
-📱 Gestion de l’orientation
-Interface fluide et responsive en mode portrait et paysage.
+📱 Orientation Handling
+Smooth and responsive interface supporting both portrait and landscape modes.
 
-🧩 Technologies utilisées
+🧩 Technologies Used
 Android (Java/Kotlin)
 
 Firebase Authentication & Firestore
@@ -32,9 +32,9 @@ Google Maps SDK
 
 RecyclerView, LiveData, ViewModel
 
-📌 Développements futurs
-Recommandations musicales basées sur les habitudes du campus
+📌 Future Improvements
+Music recommendations based on campus listening habits
 
-Système de réactions/commentaires sur les morceaux
+Reaction/comment system for tracks
 
-Mode hors‑ligne pour la consultation des playlists
+Offline mode for playlist browsing
