@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Musio</string>
+    <string name="title_activity_email_password">EmailPasswordActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_up">Register</string>
+    <string name="action_sign_in_short">Sign in</string> <!-- Add this line -->
+    <string name="welcome">Welcome!</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">Login failed</string>
+    <string name="log_out">Log out</string>
+
+</resources>

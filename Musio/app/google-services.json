@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010796588871",
+    "project_id": "musio-29b8d",
+    "storage_bucket": "musio-29b8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010796588871:android:4707a47c33083224e0e662",
+        "android_client_info": {
+          "package_name": "com.example.musio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4M9E7YcJ-6qXaYlFlF_Ha68JEESJYVno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
